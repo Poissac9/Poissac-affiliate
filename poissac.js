@@ -43,7 +43,7 @@ function calculateNumWidgets() {
 }
 
 // Add the widgets
-var numWidgets = calculateNumWidgets();
+var numWidgets = 50;
 for (var i = 0; i < numWidgets; i++) {
   addWidget();
 }
