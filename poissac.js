@@ -1,5 +1,3 @@
-<script style="text/javascript">
-
 // Function to add the widget inside the content
 function addWidget() {
   // Create the anchor element
@@ -47,5 +45,3 @@ var numWidgets = 50;
 for (var i = 0; i < numWidgets; i++) {
   addWidget();
 }
-
-</script>
